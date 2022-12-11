@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65452a51-6e27-4720-ae63-479a699d49db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arcanepackage/Gun02_C1_FirefoxBrowserDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arcanepackage/Gun02_C2_VerifyTitleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arcanepackage/Gun02_C3_VerifyURLTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arcanepackage/Gun02_C4_GetPageSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arcanepackage/Gun02_C5_Tekrar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arcanepackage/Gun01_C2_BasicNavigations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arcanepackage/Gun01_C2_BasicNavigations.java" afterDir="false" />
-    </list>
+    <list default="true" id="65452a51-6e27-4720-ae63-479a699d49db" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
