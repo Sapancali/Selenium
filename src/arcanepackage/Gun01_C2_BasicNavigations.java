@@ -16,7 +16,7 @@ public class Gun01_C2_BasicNavigations {
     Sayfayı Refresh (yenile) et
     Browser dan Close/Quit yap
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         //path i set et
         System.setProperty("webdriver.chrome.driver","C:/Users/ustab/Documents/selenium dependencies/drivers/chromedriver.exe");
 
@@ -28,13 +28,16 @@ public class Gun01_C2_BasicNavigations {
 
 //        Google ana sayfasına git https://www.google.com/
         driver.get("https://www.google.com/");
+        Thread.sleep(5000);
 
 //        Aynı class in içinde, amazon anasayfasını (home page) Navigate et https://www.amazon.com/
 //        driver.get("https://www.amazon.com/");
         driver.navigate().to("https://www.amazon.com/");
+        Thread.sleep(5000);
 
 //        Google ı tekrar/geri Navigate et
         driver.navigate().back();
+        Thread.sleep(5000);
 
 //        Amazon a tekrar /geri Navigate et
         driver.navigate().forward();
